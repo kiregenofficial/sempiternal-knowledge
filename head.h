@@ -1,5 +1,3 @@
-// Created by Kira-Egen on 2024-05-01.
-
 /*
     This place is a message... and part of a system of messages... pay attention to it!
 

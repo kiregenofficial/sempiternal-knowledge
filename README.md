@@ -12,6 +12,6 @@
 - 🕳 Work in progress
 
 ### Mathematics:
-- 🕳 Work in progress
+- ⚖ Matrix determinant finder
 
 ### Sincerely yours, Kira Egen
